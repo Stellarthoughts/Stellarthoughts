@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡ Fun fact: Me don't know what code is
 
 <!--
 **Stellarthoughts/Stellarthoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
