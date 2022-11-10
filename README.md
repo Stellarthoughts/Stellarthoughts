@@ -11,7 +11,7 @@ _____/\\\\\\\\\________/\\\\\\\\\\\____/\\\\\\\\\\\\\\\____/\\\\\\\\\_________/\
 ```
 
 ```
-# astrasourcemain@gmail.com
-# C#, JS❗, Rust❓, Python, C
-# .NET/WPF/ASP, ReactJS❗, REST.API, Node.js
+✉️ astrasourcemain@gmail.com
+💬 C#, JS❗, Rust❓, Python, C
+⚙️ .NET/WPF/ASP, ReactJS❗, REST.API, Node.js
 ```
