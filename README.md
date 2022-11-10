@@ -1,19 +1,17 @@
-### ⚡ Fun fact: I know what code is! But i don't know where is it...
-### 📫 How to reach me: PR something bad into one of my public repos
-### 🌱 I’m currently learning: .NET/WPF/ASP, ReactJS, REST.API, both front-end and back-end stuff
-### 🔭 I’m currently working on: Various group and term projects (Small-Medium size stuff)
+```
+_____/\\\\\\\\\________/\\\\\\\\\\\____/\\\\\\\\\\\\\\\____/\\\\\\\\\_________/\\\\\\\\\____        
+ ___/\\\\\\\\\\\\\____/\\\/////////\\\_\///////\\\/////___/\\\///////\\\_____/\\\\\\\\\\\\\__       
+  __/\\\/////////\\\__\//\\\______\///________\/\\\_______\/\\\_____\/\\\____/\\\/////////\\\_      
+   _\/\\\_______\/\\\___\////\\\_______________\/\\\_______\/\\\\\\\\\\\/____\/\\\_______\/\\\_     
+    _\/\\\\\\\\\\\\\\\______\////\\\____________\/\\\_______\/\\\//////\\\____\/\\\\\\\\\\\\\\\_    
+     _\/\\\/////////\\\_________\////\\\_________\/\\\_______\/\\\____\//\\\___\/\\\/////////\\\_   
+      _\/\\\_______\/\\\__/\\\______\//\\\________\/\\\_______\/\\\_____\//\\\__\/\\\_______\/\\\_  
+       _\/\\\_______\/\\\_\///\\\\\\\\\\\/_________\/\\\_______\/\\\______\//\\\_\/\\\_______\/\\\_ 
+        _\///________\///____\///////////___________\///________\///________\///__\///________\///__
+```
 
-<!--
-**Stellarthoughts/Stellarthoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+# astrasourcemain@gmail.com
+# C#, JS❗, Rust❓, Python, C
+# .NET/WPF/ASP, ReactJS❗, REST.API, Node.js
+```
