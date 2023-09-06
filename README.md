@@ -12,6 +12,6 @@ _____/\\\\\\\\\________/\\\\\\\\\\\____/\\\\\\\\\\\\\\\____/\\\\\\\\\_________/\
 
 ```
 ✉️ astrasourcemain@gmail.com
-💬 C#, JS❗, TS❗, Rust❓, Python, C, Solidity
+💬 C#, JS❗, TS❗, Rust❓, Python, C, Solidity, DM
 ⚙️ .NET/WPF/ASP, ReactJS❗, REST.API, Node.js
 ```
